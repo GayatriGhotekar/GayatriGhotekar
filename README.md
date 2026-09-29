@@ -16,7 +16,6 @@ I also use **AI-assisted development and prompt engineering** for coding, debugg
 
 * Golang
 * PHP
-* Python
 * C
 * C++
 
@@ -51,7 +50,6 @@ I also use **AI-assisted development and prompt engineering** for coding, debugg
 * Docker
 * CI/CD
 * AWS
-* Postman
 * VS Code
 
 ### AI & Development
